@@ -9,7 +9,7 @@ window.data={
       'brown':[7,8,9,10,11,12,13] 
     },
     bySize:{
-        '7':['red','green',,'brown'],
+        '7':['red','green','brown'],
         '8':['red','brown'],
         '9':['red','blue','green','purple','brown'],
         '10':['red','blue','green','purple','brown'],
